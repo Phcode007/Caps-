@@ -1,6 +1,6 @@
 # Capítulo 1: A Chama que se Apaga — Lágrimas de um Rei sob Céu Cinzento
 
-![O Lamento do Rei](images/O Lamento do Rei.png)
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/5a7b3dbc-d830-4425-b2fa-27d5e1e1ac90" />
 
 ## Por onde começar?
 
