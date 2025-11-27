@@ -1,7 +1,6 @@
 # Capítulo 2: O Sangue do Dragão — Sombras que Marcham sob as Cinzas de Wyvernia
 
-![Sombra do Dragão e Sangue](images/Sombra do Dragão e Sangue.png)
-
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/137641b6-aad0-4108-bd17-588de3bcc7c4" />
 
 A paz parecia ter retornado. Porém, o reino que estava no centro do mundo de Eldor, e toda Eldor estava prestes a ser ameaçado. Na nação do Sul, Wyvern é governada pelos draconideos uma raça híbrida, meio-humanos e meio-dragões. Essa raça surgiu quando o grande dragão negro Agrion foi vencido pelo celestial Yeron, um guerreiro formidável. A vitória era evidente, mas a queda do dragão fez a terra adoecer, e o sangue do dragão havia escorrido para os rios que levavam até a capital da nação de Wyvernia, a cidade Drakewood. Então, a população, desconhecendo o perigo, bebeu da água impura e em pouco tempo, todos já haviam sido contaminados pela maldade de Agrion. Os draconideos começaram a usar a magia de forma maligna, atacando vilas vizinhas até dominarem toda a nação de Wyvernia. Entre os draconideos, destacavam-se o quarto Grande espadachim Windstrom e a quarta Grande maga Elisia.
 
